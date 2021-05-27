@@ -63,13 +63,8 @@ body {
   color: var(--black-color);
 }
 
-.logo-bottom {
-  margin-bottom: 20px;
-}
-
 .logo-third {
   color: var(--white-color);
-  margin-bottom: 20px;
 }
 
 /* nav */
@@ -238,6 +233,10 @@ p{
 .address-list .ad-res:hover,
 .address-list .ad-res:focus {
   color: var(--accent-color);
+}
+
+.par {
+  margin-bottom: 9px;
 }
 
 /* main portfolio.html */
