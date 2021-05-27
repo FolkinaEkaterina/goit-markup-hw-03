@@ -28,6 +28,7 @@ body {
   margin:0 auto;
   padding-left: 15px;
   padding-right: 15px;
+  
 }
 
 .list {
@@ -62,13 +63,13 @@ body {
   color: var(--black-color);
 }
 
-/* .logo-bottom {
+.logo-bottom {
   margin-bottom: 20px;
-} */
+}
 
 .logo-third {
   color: var(--white-color);
-  /* margin-bottom: 20px; */
+  margin-bottom: 20px;
 }
 
 /* nav */
